@@ -1,0 +1,214 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.a1stfirebasedatabase"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:22:5-79
+13-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:22:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:23:5-67
+14-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:23:22-64
+15
+16    <permission
+16-->[androidx.core:core:1.12.0] C:\Users\Mehedi\.gradle\caches\transforms-3\c75f5cf294b3c4ead684478c30f0497e\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.a1stfirebasedatabase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.12.0] C:\Users\Mehedi\.gradle\caches\transforms-3\c75f5cf294b3c4ead684478c30f0497e\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.12.0] C:\Users\Mehedi\.gradle\caches\transforms-3\c75f5cf294b3c4ead684478c30f0497e\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.a1stfirebasedatabase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.12.0] C:\Users\Mehedi\.gradle\caches\transforms-3\c75f5cf294b3c4ead684478c30f0497e\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.12.0] C:\Users\Mehedi\.gradle\caches\transforms-3\c75f5cf294b3c4ead684478c30f0497e\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:5:5-30:19
+23        android:allowBackup="true"
+23-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:6:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.12.0] C:\Users\Mehedi\.gradle\caches\transforms-3\c75f5cf294b3c4ead684478c30f0497e\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:7:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:8:9-54
+29        android:icon="@mipmap/ic_launcher"
+29-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:9:9-43
+30        android:label="@string/app_name"
+30-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:10:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:11:9-54
+32        android:supportsRtl="true"
+32-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:12:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme._1stFireBaseDatabase" >
+34-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:13:9-58
+35        <activity
+35-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:15:9-17:40
+36            android:name="com.example.a1stfirebasedatabase.WelcomeActivity"
+36-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:16:13-44
+37            android:exported="false" />
+37-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:17:13-37
+38        <activity
+38-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:18:9-20:40
+39            android:name="com.example.a1stfirebasedatabase.SignInActivity"
+39-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:19:13-43
+40            android:exported="false" />
+40-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:20:13-37
+41        <activity
+41-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:21:9-29:20
+42            android:name="com.example.a1stfirebasedatabase.MainActivity"
+42-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:22:13-41
+43            android:exported="true" >
+43-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:23:13-36
+44            <intent-filter>
+44-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:24:13-28:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:25:17-69
+45-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:25:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:27:17-77
+47-->C:\Users\Mehedi\AndroidStudioProjects\1stFireBaseDatabase\app\src\main\AndroidManifest.xml:27:27-74
+48            </intent-filter>
+49        </activity>
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehedi\.gradle\caches\transforms-3\409bb69def45319251075ac2df92e9d3\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehedi\.gradle\caches\transforms-3\409bb69def45319251075ac2df92e9d3\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+53            android:authorities="com.example.a1stfirebasedatabase.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehedi\.gradle\caches\transforms-3\409bb69def45319251075ac2df92e9d3\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehedi\.gradle\caches\transforms-3\409bb69def45319251075ac2df92e9d3\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehedi\.gradle\caches\transforms-3\409bb69def45319251075ac2df92e9d3\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehedi\.gradle\caches\transforms-3\409bb69def45319251075ac2df92e9d3\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehedi\.gradle\caches\transforms-3\409bb69def45319251075ac2df92e9d3\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9e1fc1befbcbf4e69406c3c436f9e550\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9e1fc1befbcbf4e69406c3c436f9e550\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9e1fc1befbcbf4e69406c3c436f9e550\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+61            <meta-data
+61-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+62                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+62-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+63                android:value="androidx.startup" />
+63-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+64        </provider>
+65
+66        <service
+66-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:26:9-35:19
+67            android:name="com.google.firebase.components.ComponentDiscoveryService"
+67-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:27:13-84
+68            android:directBootAware="true"
+68-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+69            android:exported="false" >
+69-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:28:13-37
+70            <meta-data
+70-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:29:13-31:85
+71                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+71-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:30:17-120
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:31:17-82
+73            <meta-data
+73-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:32:13-34:85
+74                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+74-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:33:17-109
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[com.google.firebase:firebase-database:20.3.1] C:\Users\Mehedi\.gradle\caches\transforms-3\9104ec2667354ed25bd0424e27587fb0\transformed\firebase-database-20.3.1\AndroidManifest.xml:34:17-82
+76            <meta-data
+76-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\d278fc95924a90af1c5920942df61ca4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+77                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+77-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\d278fc95924a90af1c5920942df61ca4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+78                android:value="com.google.firebase.components.ComponentRegistrar" />
+78-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\d278fc95924a90af1c5920942df61ca4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+79            <meta-data
+79-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+80                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+80-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+81                android:value="com.google.firebase.components.ComponentRegistrar" />
+81-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+82        </service>
+83
+84        <activity
+84-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Mehedi\.gradle\caches\transforms-3\0d9fd560f2c42b93a43fc880ddb2d919\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+85            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+85-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Mehedi\.gradle\caches\transforms-3\0d9fd560f2c42b93a43fc880ddb2d919\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+86            android:exported="false"
+86-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Mehedi\.gradle\caches\transforms-3\0d9fd560f2c42b93a43fc880ddb2d919\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+87            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+87-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Mehedi\.gradle\caches\transforms-3\0d9fd560f2c42b93a43fc880ddb2d919\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+88
+89        <provider
+89-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+90            android:name="com.google.firebase.provider.FirebaseInitProvider"
+90-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+91            android:authorities="com.example.a1stfirebasedatabase.firebaseinitprovider"
+91-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+92            android:directBootAware="true"
+92-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+93            android:exported="false"
+93-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+94            android:initOrder="100" />
+94-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Mehedi\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+95
+96        <meta-data
+96-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\3204e2ad65a0c803f9f583a38079c3c2\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+97            android:name="com.google.android.gms.version"
+97-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\3204e2ad65a0c803f9f583a38079c3c2\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+98            android:value="@integer/google_play_services_version" />
+98-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\3204e2ad65a0c803f9f583a38079c3c2\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+99
+100        <receiver
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+101            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+102            android:directBootAware="false"
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+103            android:enabled="true"
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+104            android:exported="true"
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+105            android:permission="android.permission.DUMP" >
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+107                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+108            </intent-filter>
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+110                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+111            </intent-filter>
+112            <intent-filter>
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+113                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+114            </intent-filter>
+115            <intent-filter>
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+116                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehedi\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+117            </intent-filter>
+118        </receiver>
+119    </application>
+120
+121</manifest>
