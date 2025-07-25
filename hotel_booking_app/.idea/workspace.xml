@@ -10,6 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f62f9565-1be7-4158-a873-cc9a29cd20ea" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/images/barisal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/city_palace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ds_palace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grand_park.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grand_sylhet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/khulna.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mymensingh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/parabat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pushpo_bilash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/regent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rose_garden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/way_home.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/checksums/checksums.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/checksums/md5-checksums.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" />
@@ -43,7 +56,7 @@
       <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_509e2a3c985294a748d5050334e6064513f1ae788879a76b6ca1fbd1a094a9a9_bucket_0/graph.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_509e2a3c985294a748d5050334e6064513f1ae788879a76b6ca1fbd1a094a9a9_bucket_1/graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/images/grand_hyatt.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" beforeDir="false" />
@@ -748,6 +761,19 @@
       <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/utils.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/win32_window.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rrc.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/rrc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/home.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -777,7 +803,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/kifayatmahdi/Dart-Project.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/kifayatmahdi/hotel_booking_app.git&quot;,
     &quot;accountId&quot;: &quot;cd70a3b4-8dc5-48c4-9041-67475d195ecf&quot;
   }
 }</component>
@@ -793,25 +819,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Mehedi/AndroidStudioProjects/hotel_booking_app/android/app/src/main/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mehedi/AndroidStudioProjects/bookingapp&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.android.studio.ml.bot.mainConfigurable&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Mehedi/AndroidStudioProjects/hotel_booking_app/android/app/src/main/java",
+    "last_opened_file_path": "C:/Users/Mehedi/AndroidStudioProjects/bookingapp",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mehedi\AndroidStudioProjects\hotel_booking_app\images" />
@@ -840,7 +866,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752938332393</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1752938843056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752938843056</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

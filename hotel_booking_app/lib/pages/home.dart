@@ -71,7 +71,7 @@ class _HomeState extends State<Home> {
     }
   }
 
-  int? dhakacount, chittagongcount, rajshahicount, sylhetcount;
+  int? dhakacount, chittagongcount, rajshahicount, khulnacount, sylhetcount, barisalcount, mymensinghcount;
 
   Future<Position> _getCurrentPosition() async {
     bool serviceEnabled;
@@ -135,6 +135,13 @@ class _HomeState extends State<Home> {
         .get();
     dhakacount = dhakaQuerySnapshot.docs.length;
 
+    // Count documents where city == 'Mymensingh'
+    final mymensinghQuerySnapshot = await firestore
+        .collection('Hotel')
+        .where('HotelCity', isEqualTo: 'mymensingh')
+        .get();
+    mymensinghcount = mymensinghQuerySnapshot.docs.length;
+
     // Count documents where city == 'Chittagong'
     final chittagongQuerySnapshot = await firestore
         .collection('Hotel')
@@ -149,12 +156,27 @@ class _HomeState extends State<Home> {
         .get();
     rajshahicount = rajshahiQuerySnapshot.docs.length;
 
+    // Count documents where city == 'Khulna'
+    final khulnaQuerySnapshot = await firestore
+        .collection('Hotel')
+        .where('HotelCity', isEqualTo: 'khulna')
+        .get();
+    khulnacount = khulnaQuerySnapshot.docs.length;
+
     // Count documents where city == 'Sylhet'
     final sylhetQuerySnapshot = await firestore
         .collection('Hotel')
         .where('HotelCity', isEqualTo: 'sylhet')
         .get();
     sylhetcount = sylhetQuerySnapshot.docs.length;
+
+    // Count documents where city == 'Barisal'
+    final barisalQuerySnapshot = await firestore
+        .collection('Hotel')
+        .where('HotelCity', isEqualTo: 'barisal')
+        .get();
+    barisalcount = barisalQuerySnapshot.docs.length;
+
 
     setState(() {});
   }
@@ -487,6 +509,79 @@ class _HomeState extends State<Home> {
                                           context,
                                           MaterialPageRoute(
                                             builder: (context) =>
+                                                CityHotel(city: "Mymensingh"),
+                                          ),
+                                        );
+                                      },
+                                      child: Container(
+                                        margin: const EdgeInsets.only(left: 20.0, bottom: 5.0),
+                                        child: Material(
+                                          elevation: 2.0,
+                                          borderRadius:
+                                          BorderRadius.circular(30),
+                                          child: Container(
+                                            decoration: BoxDecoration(
+                                              color: Colors.white,
+                                              borderRadius:
+                                              BorderRadius.circular(30),
+                                            ),
+                                            child: Column(
+                                              crossAxisAlignment:
+                                              CrossAxisAlignment.start,
+                                              children: [
+                                                ClipRRect(
+                                                  borderRadius:
+                                                  BorderRadius.circular(30),
+                                                  child: Image.asset(
+                                                    "images/mymensingh.png",
+                                                    height: 200,
+                                                    width: 180,
+                                                    fit: BoxFit.cover,
+                                                  ),
+                                                ),
+                                                const SizedBox(height: 10.0),
+                                                Padding(
+                                                  padding:
+                                                  const EdgeInsets.only(
+                                                      left: 20.0),
+                                                  child: Text(
+                                                    "Mymensingh",
+                                                    style: AppWidget
+                                                        .headlinetextstyle(
+                                                        20.0),
+                                                  ),
+                                                ),
+                                                Padding(
+                                                  padding:
+                                                  const EdgeInsets.only(
+                                                      left: 20.0),
+                                                  child: Row(
+                                                    children: [
+                                                      const Icon(Icons.hotel,
+                                                          color: Colors.blue),
+                                                      const SizedBox(width: 5.0),
+                                                      Text(
+                                                        mymensinghcount.toString() +
+                                                            " Hotels",
+                                                        style: AppWidget
+                                                            .normaltextstyle(
+                                                            18.0),
+                                                      ),
+                                                    ],
+                                                  ),
+                                                ),
+                                              ],
+                                            ),
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                    GestureDetector(
+                                      onTap: () {
+                                        Navigator.push(
+                                          context,
+                                          MaterialPageRoute(
+                                            builder: (context) =>
                                                 CityHotel(city: "Chittagong"),
                                           ),
                                         );
@@ -635,6 +730,81 @@ class _HomeState extends State<Home> {
                                           context,
                                           MaterialPageRoute(
                                             builder: (context) =>
+                                                CityHotel(city: "Khulna"),
+                                          ),
+                                        );
+                                      },
+                                      child: Container(
+                                        margin: const EdgeInsets.only(
+                                            left: 20.0, bottom: 5.0),
+                                        child: Material(
+                                          elevation: 2.0,
+                                          borderRadius:
+                                          BorderRadius.circular(30),
+                                          child: Container(
+                                            decoration: BoxDecoration(
+                                              color: Colors.white,
+                                              borderRadius:
+                                              BorderRadius.circular(30),
+                                            ),
+                                            child: Column(
+                                              crossAxisAlignment:
+                                              CrossAxisAlignment.start,
+                                              children: [
+                                                ClipRRect(
+                                                  borderRadius:
+                                                  BorderRadius.circular(30),
+                                                  child: Image.asset(
+                                                    "images/khulna.png",
+                                                    height: 200,
+                                                    width: 180,
+                                                    fit: BoxFit.cover,
+                                                  ),
+                                                ),
+                                                const SizedBox(height: 10.0),
+                                                Padding(
+                                                  padding:
+                                                  const EdgeInsets.only(
+                                                      left: 20.0),
+                                                  child: Text(
+                                                    "Khulna",
+                                                    style: AppWidget
+                                                        .headlinetextstyle(
+                                                        20.0),
+                                                  ),
+                                                ),
+                                                Padding(
+                                                  padding:
+                                                  const EdgeInsets.only(
+                                                      left: 20.0),
+                                                  child: Row(
+                                                    children: [
+                                                      const Icon(Icons.hotel,
+                                                          color: Colors.blue),
+                                                      const SizedBox(width: 5.0),
+                                                      Text(
+                                                        khulnacount
+                                                            .toString() +
+                                                            " Hotels",
+                                                        style: AppWidget
+                                                            .normaltextstyle(
+                                                            18.0),
+                                                      ),
+                                                    ],
+                                                  ),
+                                                ),
+                                              ],
+                                            ),
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                    GestureDetector(
+                                      onTap: () {
+                                        Navigator.push(
+                                          context,
+                                          MaterialPageRoute(
+                                            builder: (context) =>
                                                 CityHotel(city: "Sylhet"),
                                           ),
                                         );
@@ -689,6 +859,81 @@ class _HomeState extends State<Home> {
                                                       const SizedBox(width: 5.0),
                                                       Text(
                                                         sylhetcount
+                                                            .toString() +
+                                                            " Hotels",
+                                                        style: AppWidget
+                                                            .normaltextstyle(
+                                                            18.0),
+                                                      ),
+                                                    ],
+                                                  ),
+                                                ),
+                                              ],
+                                            ),
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                    GestureDetector(
+                                      onTap: () {
+                                        Navigator.push(
+                                          context,
+                                          MaterialPageRoute(
+                                            builder: (context) =>
+                                                CityHotel(city: "Barisal"),
+                                          ),
+                                        );
+                                      },
+                                      child: Container(
+                                        margin: const EdgeInsets.only(
+                                            left: 20.0, bottom: 5.0),
+                                        child: Material(
+                                          elevation: 2.0,
+                                          borderRadius:
+                                          BorderRadius.circular(30),
+                                          child: Container(
+                                            decoration: BoxDecoration(
+                                              color: Colors.white,
+                                              borderRadius:
+                                              BorderRadius.circular(30),
+                                            ),
+                                            child: Column(
+                                              crossAxisAlignment:
+                                              CrossAxisAlignment.start,
+                                              children: [
+                                                ClipRRect(
+                                                  borderRadius:
+                                                  BorderRadius.circular(30),
+                                                  child: Image.asset(
+                                                    "images/barisal.png",
+                                                    height: 200,
+                                                    width: 180,
+                                                    fit: BoxFit.cover,
+                                                  ),
+                                                ),
+                                                const SizedBox(height: 10.0),
+                                                Padding(
+                                                  padding:
+                                                  const EdgeInsets.only(
+                                                      left: 20.0),
+                                                  child: Text(
+                                                    "Barisal",
+                                                    style: AppWidget
+                                                        .headlinetextstyle(
+                                                        20.0),
+                                                  ),
+                                                ),
+                                                Padding(
+                                                  padding:
+                                                  const EdgeInsets.only(
+                                                      left: 20.0),
+                                                  child: Row(
+                                                    children: [
+                                                      const Icon(Icons.hotel,
+                                                          color: Colors.blue),
+                                                      const SizedBox(width: 5.0),
+                                                      Text(
+                                                        barisalcount
                                                             .toString() +
                                                             " Hotels",
                                                         style: AppWidget
