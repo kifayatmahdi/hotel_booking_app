@@ -10,770 +10,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f62f9565-1be7-4158-a873-cc9a29cd20ea" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/images/barisal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/city_palace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ds_palace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/grand_park.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/grand_sylhet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/khulna.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mymensingh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/parabat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pushpo_bilash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/regent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rose_garden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/way_home.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/8.2/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.idea/assetWizardSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/generated/res/processDebugGoogleServices/values/values.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/gmpAppId.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/apk/debug/output-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/apk_ide_redirect_file/debug/redirect.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/app_metadata/debug/app-metadata.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/compatible_screen_manifest/debug/output-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_509e2a3c985294a748d5050334e6064513f1ae788879a76b6ca1fbd1a094a9a9_bucket_0/graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_509e2a3c985294a748d5050334e6064513f1ae788879a76b6ca1fbd1a094a9a9_bucket_1/graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/images/grand_hyatt.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/dex_number_of_buckets_file/debug/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+JtOXIG5Ku2PBsbEwiiZh9fp9tk=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+RvbB91wZ+qJJBTHJbxbLZOCEZc=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0a9VfdLgbc7FVI0EMk_FHNwlynQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1LH+j5jvKxs3GeJpCQorCciV6mk=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2CeY1ZGiKDVO5y3Krz2z5PtjrTk=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3PBivihYHWe4evWr88Mpkf3PCNQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/49uRkzkiaXftC79VTE73AIMC+rU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4M+9kwAqaxRPyIbpoR1Cgt8cn34=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5PUFQ5e_E5fvIQY9UQEiBWo+P+c=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5UqTiTgpLx16KyZvGkZJTDs_qA4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/67myz8AOWqzvuy+NKL2Kzoz9P94=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9_w9hpuYWLuI6ekAeVfP7zGlW58=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9tBPl07wjN1tJsGcvI22mD9lDW4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/A2ySxPqpeTFAiWVDd+JG6RCxqVw=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/B_E9IRF15zU6kSuhdYLUqbdyH30=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BmZ_6+5IO8AzZvRnOFUyYrqLOxU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/C+wQhruBijvWQQIeCaudpMxKho8=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/D0e_2pAyUhRszcTtLBja9pa_+9A=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DNdCAWr4qml3+G7QK_mz2i7zLeM=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Dgm5D4fETtOw+T_IK8wHEYPDtgk=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/EeE8zYdWRB5orFmqBI6dhnGI4Og=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Euey4uE6U3HtrT5GZex66VV11S4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FGTldafzYD6afkZrxLzWyxXoFJg=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ft5C6Qh0+zAVYAJAnkegwtxyI9g=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/H_8SquU2LanVi9jmdyoPeH8sLZA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LhEclOlvnPU0inh_35J53MpofHY=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MjD5426R9CtPrFDzFF6lGvAizQQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/N0Ffm3aXL4SzwXAmsME0GscwnME=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Oh87xNTeICYlcH7Pyqu0vUWQzL4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Pdksi1P_G6yqvYKvEsAvM7gHu7M=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Q3AgecHbCWkDS7fQlR3sO1sAgbc=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ReCb4nc6uOBMZpPsX7lBCo_ILbc=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/RyvbR6ZTkdHPqZ5m_8erNYgYQ+g=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SRz38B76p3WwMUA2Ldlvwo9ysoM=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SU3oahi8ABn8OBp7DkFSSYKNDfY=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TICOP5qEwqev+KuzdZZQAKoG6vE=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/U9L4M7yTWd82M0mEkDm9KnYl4rk=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/VRLcscvrQdUdUZm6mnQw_87Co+I=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WDfVQzbG7+GkIBPZUfvZCpIXU0Y=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Yr8Tyb8EQAG0AvdyuGhqBxrIuzE=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_6rPH03O05lDcRXrQhU7PtTjL8s=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_Jzvq6NVf6euyOaLO14zvJjJOvc=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/aZv3j57tNMczZ3QJUtvTfOGQMLg=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ag7slYyaKcAGuR6xbUz6vYXC0gc=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/cRZ4eZgutgtW0MUt+EaUogzCvYc=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dXHmeemjD9j88iNlHaRl9R6lK7g=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dhjtwQJmWj2D9KrKixLy3WkEzzI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ezScu1JpwMUwjXwZExunMH3asOI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/fKxmQ6_x8+n4w07CJOneddiMiT8=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gOsceuCAn8qxRBJvFis6bWVx4CA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/i5+ZXp2_PxZOJgrajkEyr5akPzE=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/knjTrX+RQDez8hvmqpTXpATqRKI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/kx1GaHI5saHdvrN6_0gHXmNLxSo=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lMcU4bfNHWD_FDDBMg08gvPOB78=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lMl7hUDEH2ZGCxKKQoks0fG8WZw=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lYFqDJmbZ+LUS7JVLsqV40E4XrA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/nXIAGdrUK3E4NEMrxRP20GXqvFc=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/p2b3KYYLOvUJViSLzAVIUOKrALI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/pZ4MC4CN6QHP6z1fk4gFxtTm1NM=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qlu+1qpUDe8YLz7doRU5YpaDEA0=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rUcVpL+krqrbirw7n0DdzMoDVeg=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/tBesvwLx9ZmW6Ebi8ZNF1ogn6mQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/w4Qr5EinYt0mAE4bguBpDnOXOIQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wPD3HZ9sqPZrBD_Kxx1P4d_5CAE=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wdfCAN3VlImJe9NMlTgOoB5FmzA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/xS0ZtPcDZk17dm+cpUD6tEy_sLk=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/y3qanCAj9aV_2TtvtrJTN01rELQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/y7adOpZfVxquQpdcz3q6wxR1qyo=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ypl0IjpURQJ3+kRQ2+nONrp6OEw=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/yutDf4W0KHGNuREHafhKLV_bNYI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/java_res/debug/out/META-INF/app_debug.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_java_res/debug/base.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_manifests/debug/output-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/drawable_baseline_lock_24.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/drawable_ic_launcher_foreground.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/drawable_login.jpg.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/drawable_signup.jpg.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/layout_activity_sign_in.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/layout_activity_welcome.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-anydpi_ic_launcher.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-anydpi_ic_launcher_round.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-af_values-af.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-am_values-am.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ar_values-ar.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-as_values-as.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-az_values-az.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-b+es+419_values-b+es+419.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-be_values-be.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-bg_values-bg.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-bn_values-bn.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-bs_values-bs.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ca_values-ca.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-cs_values-cs.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-da_values-da.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-de_values-de.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-el_values-el.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-en-rAU_values-en-rAU.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-en-rCA_values-en-rCA.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-en-rGB_values-en-rGB.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-en-rIN_values-en-rIN.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-en-rXC_values-en-rXC.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-es-rUS_values-es-rUS.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-es_values-es.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-et_values-et.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-eu_values-eu.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-fa_values-fa.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-fi_values-fi.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-fr-rCA_values-fr-rCA.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-fr_values-fr.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-gl_values-gl.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-gu_values-gu.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-hi_values-hi.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-hr_values-hr.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-hu_values-hu.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-hy_values-hy.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-in_values-in.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-is_values-is.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-it_values-it.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-iw_values-iw.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ja_values-ja.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ka_values-ka.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-kk_values-kk.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-km_values-km.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-kn_values-kn.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ko_values-ko.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ky_values-ky.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-land_values-land.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-large-v4_values-large-v4.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ldrtl-v17_values-ldrtl-v17.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-lo_values-lo.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-lt_values-lt.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-lv_values-lv.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-mk_values-mk.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ml_values-ml.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-mn_values-mn.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-mr_values-mr.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ms_values-ms.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-my_values-my.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-nb_values-nb.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ne_values-ne.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-night-v8_values-night-v8.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-nl_values-nl.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-or_values-or.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-pa_values-pa.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-pl_values-pl.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-port_values-port.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-pt-rBR_values-pt-rBR.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-pt-rPT_values-pt-rPT.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-pt_values-pt.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ro_values-ro.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ru_values-ru.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-si_values-si.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-sk_values-sk.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-sl_values-sl.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-small-v4_values-small-v4.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-sq_values-sq.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-sr_values-sr.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-sv_values-sv.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-sw_values-sw.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ta_values-ta.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-te_values-te.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-th_values-th.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-tl_values-tl.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-tr_values-tr.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-uk_values-uk.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-ur_values-ur.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-uz_values-uz.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v16_values-v16.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v17_values-v17.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v18_values-v18.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v21_values-v21.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v22_values-v22.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v23_values-v23.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v24_values-v24.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v25_values-v25.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v26_values-v26.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v28_values-v28.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v31_values-v31.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-v34_values-v34.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-vi_values-vi.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-w400dp-port-v13_values-w400dp-port-v13.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-watch-v20_values-watch-v20.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-watch-v21_values-watch-v21.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-zh-rCN_values-zh-rCN.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-zh-rHK_values-zh-rHK.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-zh-rTW_values-zh-rTW.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values-zu_values-zu.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/values_values.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/xml_backup_rules.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res/debug/xml_data_extraction_rules.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-af.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-am.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ar.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-as.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-az.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-b+es+419.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-b+sr+Latn.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-be.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bg.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bn.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ca.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-cs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-da.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-de.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-el.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rAU.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rCA.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rGB.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rIN.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rXC.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es-rUS.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-et.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-eu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fa.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fi.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr-rCA.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h320dp-port-v13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h360dp-land-v13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h480dp-land-v13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h550dp-port-v13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h720dp-v13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hdpi-v4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hi.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hy.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-in.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-is.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-it.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-iw.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ja.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ka.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-km.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kn.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ko.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ky.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-land.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-large-v4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ldltr-v21.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ldrtl-v17.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lt.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lv.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ml.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mn.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ms.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-my.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ne.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-night-v8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-or.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pa.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-port.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rBR.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rPT.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ro.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ru.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-si.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-small-v4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sq.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sv.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sw.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sw600dp-v13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ta.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-te.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-th.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ur.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uz.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v16.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v17.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v18.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v21.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v22.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v23.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v24.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v25.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v26.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v28.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v31.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v34.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-vi.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w320dp-land-v13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w360dp-port-v13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w400dp-port-v13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w600dp-land-v13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-watch-v20.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-watch-v21.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-xlarge-v4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rCN.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rHK.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rTW.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_manifests/debug/output-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/drawable/baseline_lock_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/drawable/login.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/drawable/signup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/layout/activity_sign_in.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/layout/activity_welcome.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-anydpi-v4/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-anydpi-v4/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/values/values.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/packaged_res/debug/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/processed_res/debug/out/output-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/project_dex_archive/debug/out/b84bafd14e9b9e58b36398dadd8a5b9c99c34f0bda162d412ccd229df0a0f950_0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/project_dex_archive/debug/out/b84bafd14e9b9e58b36398dadd8a5b9c99c34f0bda162d412ccd229df0a0f950_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/project_dex_archive/debug/out/com/example/a1stfirebasedatabase/MainActivity$onCreate$1$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/project_dex_archive/debug/out/com/example/a1stfirebasedatabase/MainActivity.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/project_dex_archive/debug/out/com/example/a1stfirebasedatabase/SignInActivity$Companion.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/project_dex_archive/debug/out/com/example/a1stfirebasedatabase/SignInActivity$readData$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/project_dex_archive/debug/out/com/example/a1stfirebasedatabase/SignInActivity.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/project_dex_archive/debug/out/com/example/a1stfirebasedatabase/User.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/project_dex_archive/debug/out/com/example/a1stfirebasedatabase/WelcomeActivity.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/source_set_path_map/debug/file-map.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/intermediates/variant_model/debug/variant_model.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/kotlin/compileDebugKotlin/local-state/build-history.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/tmp/kotlin-classes/debug/com/example/a1stfirebasedatabase/MainActivity$onCreate$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/tmp/kotlin-classes/debug/com/example/a1stfirebasedatabase/MainActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/tmp/kotlin-classes/debug/com/example/a1stfirebasedatabase/SignInActivity$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/tmp/kotlin-classes/debug/com/example/a1stfirebasedatabase/SignInActivity$readData$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/tmp/kotlin-classes/debug/com/example/a1stfirebasedatabase/SignInActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/tmp/kotlin-classes/debug/com/example/a1stfirebasedatabase/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/app/build/tmp/kotlin-classes/debug/com/example/a1stfirebasedatabase/WelcomeActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1stFireBaseDatabase/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.dart_tool/dartpad/web_plugin_registrant.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.dart_tool/package_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.dart_tool/package_config_subset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.dart_tool/version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.idea/runConfigurations/main_dart.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/android/assignment_android.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/android/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/android/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/android/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/assignment.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/ios/Flutter/Generated.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/ios/Flutter/flutter_export_environment.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/lib/assignment.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/macos/Flutter/ephemeral/Flutter-Generated.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment/macos/Flutter/ephemeral/flutter_export_environment.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DartProject/assignment_class_Car/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DartProject/assignment_class_Car/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DartProject/assignment_class_Car/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DartProject/assignment_class_Car/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DartProject/assignment_class_Car/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DartProject/assignment_class_Car/assignment.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DartProject/assignment_class_Car/assignment_class_Car.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/androidTest/java/com/example/firstdatabase/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/java/com/example/firstdatabase/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/drawable/login.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/drawable/logout.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/app/src/test/java/com/example/firstdatabase/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstDatabase/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/analysis_options.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/kotlin/com/mehedi/app1/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/linux/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/linux/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/linux/flutter/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/linux/flutter/generated_plugins.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/linux/main.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/linux/my_application.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/linux/my_application.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/Runner/Release.entitlements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/test/widget_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/web/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/web/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/web/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/web/icons/Icon-maskable-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/web/icons/Icon-maskable-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/web/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/flutter/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/flutter/generated_plugins.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/Runner.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/flutter_window.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/flutter_window.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/resource.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/resources/app_icon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/runner.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/utils.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/utils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/win32_window.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlutterProject/app1/windows/runner/win32_window.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DartProject/dartLiveTestModule5.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rrc.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/rrc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pages/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grand_hyatt.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/grand_hyatt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/linux/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/linux/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/runner/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/linux/runner/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/runner/my_application.cc" beforeDir="false" afterPath="$PROJECT_DIR$/linux/runner/my_application.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/runner/my_application.h" beforeDir="false" afterPath="$PROJECT_DIR$/linux/runner/my_application.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/macos/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/DebugProfile.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/MainFlutterWindow.swift" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Release.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Release.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/RunnerTests/RunnerTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/icons/Icon-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/icons/Icon-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/windows/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/windows/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/Runner.rc" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/Runner.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/flutter_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/flutter_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/flutter_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/resource.h" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/resource.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/resources/app_icon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/runner.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/utils.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/utils.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/utils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/win32_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/win32_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/win32_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/win32_window.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -828,7 +126,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "io.flutter.reload.alreadyRun": "true",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/Mehedi/AndroidStudioProjects/hotel_booking_app/android/app/src/main/java",
@@ -876,6 +174,17 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
